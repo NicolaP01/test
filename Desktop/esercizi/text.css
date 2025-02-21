@@ -1,0 +1,11 @@
+.box{
+    background-color: blue;
+    color: red;
+    height: fit-content;
+}
+
+#quadrato{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
